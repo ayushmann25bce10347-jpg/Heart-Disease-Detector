@@ -1,7 +1,5 @@
 # Heart-Disease-Detector
-Here’s a more natural, human-friendly version of your content:
 
----
 
 This project is a machine learning–powered diagnostic tool that analyzes a patient’s clinical data to estimate their likelihood of having heart disease. Instead of giving a simple yes/no result, it provides a probability score, helping users better understand risk levels. The application runs through a clean, easy-to-use terminal interface and also includes visual comparisons with historical patient data.
 
